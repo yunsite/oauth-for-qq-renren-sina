@@ -1,35 +1,35 @@
-±¾Demo°üº¬ÁËQQ¡¢ÈËÈË¡¢ĞÂÀËÎ¢²©µÄOauthÈÏÖ¤¡£
+æœ¬DemoåŒ…å«äº†QQã€äººäººã€æ–°æµªå¾®åšçš„Oauthè®¤è¯ã€‚
 
-Çë½«DemoÖĞµÄappid¼°appkey¸ü»»³ÉÄúÉêÇëµÄappid¼°appkey
+è¯·å°†Demoä¸­çš„appidåŠappkeyæ›´æ¢æˆæ‚¨ç”³è¯·çš„appidåŠappkey
 
-½«ÆäÖĞ³öÏÖurl¸ü»»³ÉÄúµÄ·şÎñÆ÷ËùÔÚµØÖ·
+å°†å…¶ä¸­å‡ºç°urlæ›´æ¢æˆæ‚¨çš„æœåŠ¡å™¨æ‰€åœ¨åœ°å€
 
 
 
-++++++++++++++++QQÁ¬½Ó²¿·Ö++++++++++++++++
+++++++++++++++++QQè¿æ¥éƒ¨åˆ†++++++++++++++++
 
-openqq/common/config.inc.phpÖĞ³öÏÖµÄ¡°xxxxxx¡±×ÖÑù¸ü»»³ÉÄúµÄappid¡¢appkey¡¢redirect_url
+openqq/common/config.inc.phpä¸­å‡ºç°çš„â€œxxxxxxâ€å­—æ ·æ›´æ¢æˆæ‚¨çš„appidã€appkeyã€redirect_url
 
 ++++++++++++++++++++++++++++++++++++++++++
 
 
-++++++++++++++++ÈËÈËÁ¬½Ó²¿·Ö++++++++++++++++
+++++++++++++++++äººäººè¿æ¥éƒ¨åˆ†++++++++++++++++
 
-openrenren/common/config.inc.phpÖĞ³öÏÖµÄ¡°xxxxxx¡±×ÖÑù¸ü»»³ÉÄúµÄappid¡¢appkey¡¢app_secretkey¡¢redirect_url
+openrenren/common/config.inc.phpä¸­å‡ºç°çš„â€œxxxxxxâ€å­—æ ·æ›´æ¢æˆæ‚¨çš„appidã€appkeyã€app_secretkeyã€redirect_url
 
 ++++++++++++++++++++++++++++++++++++++++++++
 
-++++++++++++++++ĞÂÀËÎ¢²©Á¬½Ó²¿·Ö++++++++++++++++
+++++++++++++++++æ–°æµªå¾®åšè¿æ¥éƒ¨åˆ†++++++++++++++++
 
-opensina/success.php ÖĞ³öÏÖµÄ¡°xxxxxx¡±×ÖÑù¸ü»»³ÉÄúµÄredirect_url
+opensina/success.php ä¸­å‡ºç°çš„â€œxxxxxxâ€å­—æ ·æ›´æ¢æˆæ‚¨çš„redirect_url
 
-opensina/common/config.inc.phpÖĞ³öÏÖµÄ¡°xxxxxx¡±×ÖÑù¸ü»»³ÉÄúµÄappkey¡¢appsecret¡¢redirect_url
+opensina/common/config.inc.phpä¸­å‡ºç°çš„â€œxxxxxxâ€å­—æ ·æ›´æ¢æˆæ‚¨çš„appkeyã€appsecretã€redirect_url
 
-opensina/config.phpÖĞ³öÏÖµÄ¡°xxxxxx¡±×ÖÑù¸ü»»³ÉÄúµÄappkey¡¢appsecret¡¢redirect_url
+opensina/config.phpä¸­å‡ºç°çš„â€œxxxxxxâ€å­—æ ·æ›´æ¢æˆæ‚¨çš„appkeyã€appsecretã€redirect_url
 
 ++++++++++++++++++++++++++++++++++++++++++
 
 
 
 
-2012.03.28 17£º39
+2012.03.28 17ï¼š39
